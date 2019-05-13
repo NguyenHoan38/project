@@ -1,0 +1,7 @@
+ul li { list-style: none; display: inline-block; }
+.header-right ul li{
+	margin-right: 10px;
+}
+.header-right ul{
+	float: right;
+}
